@@ -5,7 +5,7 @@ Simple Lazy is a lightweight script for lazy loading and multi-serving images. 
 ## Install
 
 ```
-npm install simple-lazy
+npm install simple-lazy --save
 ```
 
 ## Usage
