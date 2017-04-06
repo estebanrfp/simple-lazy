@@ -1,6 +1,6 @@
 {
   "name": "simple-lazy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Simple Lazy is a lightweight script for lazy loading and multi-serving images.",
   "main": "dist/src/index.js",
   "scripts": {

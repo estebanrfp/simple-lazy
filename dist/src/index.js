@@ -5,6 +5,7 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports.default = SimpleLazy;
 function SimpleLazy(container) {
+  container = document.querySelector(container);
   container.addEventListener('load', lazyLoadImages);
   container.addEventListener('resize', lazyLoadImages);
   container.addEventListener('scroll', lazyLoadImages);

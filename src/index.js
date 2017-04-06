@@ -1,4 +1,5 @@
 export default function SimpleLazy (container) {
+  container = document.querySelector(container)
   container.addEventListener('load', lazyLoadImages)
   container.addEventListener('resize', lazyLoadImages)
   container.addEventListener('scroll', lazyLoadImages)
