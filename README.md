@@ -45,6 +45,9 @@ import simpleLazy from 'simple-lazy
 
 simpleLazy('.content-list')
 ```
+## Example
+
+[simple-lazy](https://desarrolloactivo.com/articulos/simple-lazy/)
 
 ## Credits
 
